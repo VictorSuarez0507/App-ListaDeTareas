@@ -1,0 +1,171 @@
+/*
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: #e8e6e6;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subContainer {
+  background-color: #CECEF6;
+  min-width: 450px;
+  min-height: 650px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.head h1 {
+  color: #1B0A2A;
+  text-align: center;
+  margin: 30px 0;
+}
+.head h3 {
+  color: #1B0A2A;
+  text-align: center;
+  margin: 30px 0;
+}
+
+p {
+  padding: 10px 30px 30px;
+  font-size: 20px;
+}
+
+.taskEntered {
+  outline: none;
+  width: 260px;
+  padding: 15px;
+  margin-right: 25px;
+  font-size: 20px;
+  color: #000000;
+  background-color: #bf80fa;
+  border: 1px solid wheat;
+  border-radius: 10px;
+}
+
+.bodyTask {
+  outline: none;
+  width: 260px;
+  padding: 15px;
+  margin-right: 25px;
+  font-size: 20px;
+  color: #000000;
+  background-color: #cda3f4;
+  border: 1px solid wheat;
+  border-radius: 10px;
+}
+
+.buttonAdd{
+  width: 100px;
+  padding: 15px 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 0;
+  color: #eadfdf;
+  background-color:  #380B61;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ba9ef0;
+}
+
+.listToDo {
+  list-style-type: none;
+  margin: 10px;
+  border: 1px solid #7401DF;
+  border-radius: 10px;
+  padding: 10px;
+  max-height: 200px; 
+}
+.listToDo .final{
+  outline: none;
+  background-color: #CECEF6;
+}
+
+.btncomplete,
+.btnDelete,
+.btnEdit {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 20px;
+  border-radius: 60%;
+}
+
+.btncomplete {
+  color: #088A08;
+  margin-right: 10px;
+}
+
+.btnEdit {
+  color: #FF0000;
+  margin-right: 10px;
+}
+
+.btnDelete {
+  color: #0B2161;
+}
+
+.filled {
+  text-decoration-style: solid;
+  text-decoration-line: line-through;
+  text-decoration-color: #000000;
+  opacity: 0.6;
+}
+
+.finalList {
+  outline: none;
+  pointer-events:none;
+  width: 90%;
+  background-color: #CECEF6;
+  border: none;
+  color: rgb(5, 4, 5);
+  font-size: 20px;  
+  margin-right: 100px; 
+}
+.finalBody {
+  outline: none;
+  pointer-events:none;
+  width: 100%;
+  background-color: #CECEF6;
+  border: none;
+  color: rgb(32, 30, 30);
+  font-size: 16px;
+  font-style: italic;
+}
+
+
+
+input :focus,
+button :focus{
+  outline: none;
+}
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+*/
