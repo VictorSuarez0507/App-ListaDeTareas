@@ -20,3 +20,5 @@ actualizada.
 ## Herramientas y librerias empleadas en el desarrollo
 
 Javascript, Nodejs, React, Express, Mongoose, MongoDB, Chakra UI.
+
+
