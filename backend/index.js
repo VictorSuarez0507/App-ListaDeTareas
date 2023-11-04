@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const connectDB = require("./src/database/db");
+const connectDB = require("./src/config/db");
 const tasksRouter = require("./src/Routes/tasksRouter");
 const usersRouter = require("./src/Routes/usersRouter");
 const errorHandler = require("./src/middlewares/errorHandler");

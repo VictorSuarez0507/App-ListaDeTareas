@@ -18,7 +18,7 @@ const getAllTasks = async (req, res) => {
     res.json(result);
       
   } catch (error) {
-    console.error("Error al obtener las tareas del usuario:", error);
+    console.error("Error al obtener las tareas del usuario:");
     res.status(500).json({ Error: "Error al obtener las tareas del usuario" });
   }
   
